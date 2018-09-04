@@ -7,7 +7,7 @@ Aim to provide a collection of links for movie and tv show trailers, behind the 
 
 ### Contributions
 
-This will be a work in progress and I will be in search of others that would be interested in helping curate a this collection as there are many many videos out there of different quality, that will need to be organized.
+This will be a work in progress and I will be in search of others that would be interested in helping curate this collection as there are many many videos out there of different quality, that will need to be organized.
 
 Once the collection has grown, I will create a Kodi addon of sorts to help provide a better experiance to the community. 
 I will also accept pull requests once a organization standard is formatted. With that ONLY LINKS will be accepted, as to avoid any copyright or dmca takedown notice.
